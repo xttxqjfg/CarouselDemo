@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>textLable</key>
+		<string>奥迪是一个不务正业的灯厂1</string>
+		<key>imageUrl</key>
+		<string>http://172.20.90.117/www2/img/r8.jpg</string>
+		<key>contentUrl</key>
+		<string>http://www.baidu.com</string>
+	</dict>
+	<dict>
+		<key>textLable</key>
+		<string>奥迪是一个不务正业的灯厂2</string>
+		<key>imageUrl</key>
+		<string>http://172.20.90.117/www2/img/r8-1.jpg</string>
+		<key>contentUrl</key>
+		<string>http://www.sina.com</string>
+	</dict>
+	<dict>
+		<key>textLable</key>
+		<string>奥迪是一个不务正业的灯厂3</string>
+		<key>imageUrl</key>
+		<string>http://172.20.90.117/www2/img/r8.jpg</string>
+		<key>contentUrl</key>
+		<string>http://www.baidu.com</string>
+	</dict>
+	<dict>
+		<key>textLable</key>
+		<string>奥迪是一个不务正业的灯厂4</string>
+		<key>imageUrl</key>
+		<string>http://172.20.90.117/www2/img/r8-1.jpg</string>
+		<key>contentUrl</key>
+		<string>http://www.sina.com</string>
+	</dict>
+	<dict>
+		<key>textLable</key>
+		<string>奥迪是一个不务正业的灯厂5</string>
+		<key>imageUrl</key>
+		<string>http://172.20.90.117/www2/img/r8.jpg</string>
+		<key>contentUrl</key>
+		<string>http://www.baidu.com</string>
+	</dict>
+</array>
+</plist>
