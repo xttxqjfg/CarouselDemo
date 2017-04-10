@@ -1,0 +1,5 @@
+# CarouselDemo
+采用三种方式实现的图片轮播器
+CarouselView1，普通的轮播实现
+CarouselView2，采用两个ImageView来实现无限轮播
+CarouselView，采用UICollectionView来实现无线轮播
